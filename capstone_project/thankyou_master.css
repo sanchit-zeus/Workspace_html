@@ -1,0 +1,18 @@
+body{
+  background-color: #011627;
+  border-left: 50px solid #13c4c4;
+  border-bottom: 50px solid #13c4c4;
+  border-right: 50px solid #13c4c4;
+}
+
+h2{
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+h4{
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: white;
+}

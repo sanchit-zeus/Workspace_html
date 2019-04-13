@@ -1,0 +1,44 @@
+h2{
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+  font-style: italic;
+  font-weight: bold;
+}
+
+th{
+  border: solid white 5px;
+}
+
+table{
+  margin: auto;
+}
+
+#one{
+  background-color: #E02754;
+  height: 350px;
+  width: 200px;
+}
+
+#two{
+  background-color: #F39323;
+  height: 350px;
+  width: 200px;
+}
+
+#three{
+  background-color: #FDE064;
+  height: 350px;
+  width: 200px;
+}
+
+#four{
+  background-color: #A8D7B4;
+  height: 350px;
+  width: 200px;
+}
+
+#five{
+  background-color: #42BBC3;
+  height: 350px;
+  width: 200px;
+}

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Hello</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="{% static "css/mystyle.css" %}">
+  </head>
+  <body>
+    <div class="container jumbotron">
+      <h1>Working</h1>
+      <label>Click here to get the users list:</label>
+      <a href="http://127.0.0.1:8000/list"><button class="btn btn-info" type="button" name="button">Users List</button> </a>
+    </div>
+  </body>
+</html>
